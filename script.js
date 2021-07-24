@@ -128,3 +128,5 @@ function addMealToDOM(meal) {
      </div>
     `;
 }
+
+var king = "sting";
