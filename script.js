@@ -11,7 +11,6 @@ submit.addEventListener('submit', searchMeal);
 random.addEventListener('click', getRandomMeal);
 
 
-
 //Search meal and fetch from API
 function searchMeal(e) {
     e.preventDefault();
